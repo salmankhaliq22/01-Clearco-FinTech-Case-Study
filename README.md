@@ -6,7 +6,6 @@
 - [Business Activities](#Business-Activities)
 - [Landscape](#Landscape)
 - [Results](#Results)
-- [Recommendations](#Recommendations)
 - [References](#References)
 
 ## Clearco Origin & Company Overview
